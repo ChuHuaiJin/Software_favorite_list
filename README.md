@@ -19,7 +19,7 @@
 * [CheVolume](http://www.chevolume.com) [付费软件] [Windows]
 
 	这也是一款 Windows 下的第三方音量辅助工具，它能够单独设置每个软件的音量，还支持将软件的声音发送到不同的音频设备上，比如背景音乐发送到喇叭上，在线电影音乐发送到耳机中。
-* [XnConvert](https://www.xnview.com/en/xnconvert/) [免费软件] [Windows/macOS/Linux]
+* [XnConvert](https://www.xnview.com/en/xnconvert) [免费软件] [Windows/macOS/Linux]
 
 	跨平台的图片格式转换工具，支持大约 500 种格式的读取，以及 70 多种格式创建，也就是说你可以将全部这 500 多种图片转换为那 70 多种图片格式，支持批量操作。
 * [Arctime](http://arctime.org) [免费软件] [Windows/macOS/Linux]
@@ -72,7 +72,7 @@
 * [Synergy](https://symless.com/synergy) [付费软件] [Windows/macOS/Linux]
 
 	Synergy 是一款可让多台电脑共享一个鼠标与键盘的软件，用户可借助 Synergy 操作一个鼠标与键盘控制多个电脑。
-* [ABBYY FineReader](https://www.abbyy.com/en-apac/finereader/) [付费软件] [Windows/macOS]
+* [ABBYY FineReader](https://www.abbyy.com/en-apac/finereader) [付费软件] [Windows/macOS]
 
 	一款来自俄罗斯的文字识别工具，可以实现扫描、识别文本、比较并转换为可编辑格式，如 Word、Excel、PDF 等文档。
 
@@ -110,7 +110,7 @@
 	强大的截图工具，有了它，你可以完全抛弃 QQ 截图了。
 
 	[Microsoft Store下载](https://www.microsoft.com/en-us/p/snipaste/9p1wxpkb68kx)
-* [Groupy](https://www.stardock.com/products/groupy/) [付费软件] [Windows]
+* [Groupy](https://www.stardock.com/products/groupy) [付费软件] [Windows]
 
 	标签式窗口合并分组管理工具
 * [GitKraken](https://www.gitkraken.com) [免费软件] [Windows]
@@ -119,7 +119,7 @@
 * [Fork](https://git-fork.com) [免费软件] [Windows/macOS]
 
 	Github 客户端
-* [YoloMouse](https://pandateemo.github.io/YoloMouse/) [免费/付费软件] [Windows]
+* [YoloMouse](https://pandateemo.github.io/YoloMouse) [免费/付费软件] [Windows]
 
 	鼠标指针外观修改工具
 * [Carnac](https://github.com/Code52/carnac) [免费软件] [Windows]
