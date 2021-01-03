@@ -5,7 +5,7 @@
 * [SolveigMM Video Splitter](https://www.solveigmm.com/zh/products/video-splitter) [付费软件] [Windows/macOS]
 
 	一个可以做到无损分割合并视频文件的工具，无需转码。
-* [EverAver Renamer](everaver.blogspot.com) [免费软件] [Windows]
+* [EverAver Renamer](https://everaver.blogspot.com) [免费软件] [Windows]
 
 	一款专门从 [Avgle](https://www.avgle.com) 抓取日本 AV 影片元数据的刮削器，不支持批量操作。
 * [AV Data Caputer](https://github.com/yoshiko2/AV_Data_Capture) [免费软件] [Windows]
