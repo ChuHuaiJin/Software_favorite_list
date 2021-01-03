@@ -165,6 +165,11 @@
 	[Firefox 浏览器 Beta 版·来自 FTP 站点](http://ftp.mozilla.org/pub/firefox/releases)
 
 	[免费软件] [Windows/macOS/Linux]
+* [Edge 浏览器正式版](https://www.microsoft.com/zh-cn/edge)
+
+    [Edge 浏览器测试版、开发版、金丝雀版](https://www.microsoftedgeinsider.com/zh-cn/download) 
+    
+    [免费软件] [Windows/macOS/Linux]
 * [Connectify Dispatch](https://www.connectify.me) [付费软件] [Windows]
 
 	他可以允许 Windows 把你的各种网络融合在一起使用，并为你的设备提供网络叠加。
