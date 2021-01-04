@@ -192,6 +192,9 @@
 * [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg) [开源软件] [Windows/macOS]
 
 	基于 Electron 构建的 Clash 前端程序
+* [Clashr Auto Desktop](https://github.com/ClashrAuto/Clashr-Auto-Desktop) [免费软件] [Windows/macOS]
+
+    基于 Electron 构建的 Clash 前端程序，无需学习，简单设置即可稳定使用！
 * [NetDrive](http://www.netdrive.net) [付费软件] [Windows/macOS]
 
 	支持 FTP/WebDAV 协议，支持 Google Drive/Dropbox/OneDrive/Box/ownCloud 等云盘挂载为远程磁盘，支持跨平台。
