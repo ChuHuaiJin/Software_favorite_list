@@ -19,10 +19,10 @@
 * [CheVolume](http://www.chevolume.com) [付费软件] [Windows]
 
 	这也是一款 Windows 下的第三方音量辅助工具，它能够单独设置每个软件的音量，还支持将软件的声音发送到不同的音频设备上，比如背景音乐发送到喇叭上，在线电影音乐发送到耳机中。
-* [XnConvert](https://www.xnview.com/en/xnconvert) [免费软件] [Windows,macOS,Linux]
+* [XnConvert](https://www.xnview.com/en/xnconvert) [免费软件] [Windows,macOs,Linux]
 
 	跨平台的图片格式转换工具，支持大约 500 种格式的读取，以及 70 多种格式创建，也就是说你可以将全部这 500 多种图片转换为那 70 多种图片格式，支持批量操作。
-* [Arctime](http://arctime.org) [免费软件] [Windows,macOS,Linux]
+* [Arctime](http://arctime.org) [免费软件] [Windows,macOs,Linux]
 
     * Arctime 是一个全新理念的可视化字幕创作软件，可以运行在 Mac、Windows、Linux 上。借助精准的音频波形图，可以快速创建和编辑时间轴，还可以高效的进行文本编辑、翻译。支持 SRT、ASS 外挂字幕格式，并可以通过交换工程文件或与伙伴协同工作。字幕编辑完成后，仅需单击“视频转码”按钮，即可轻松完成字幕压制工作。
     * 界面不支持 HiDPI。
@@ -32,7 +32,7 @@
 	小丸工具箱是一款用于处理音视频等多媒体文件的软件，它的目标是让视频压制变得简单、轻松。
 
 **图片类**
-* [PicGo](https://github.com/Molunerfinn/PicGo) [开源软件] [Windows,macOS,Linux]
+* [PicGo](https://github.com/Molunerfinn/PicGo) [开源软件] [Windows,macOs,Linux]
 
 	基于 Electron 构建的图床工具
 * [MPic](http://mpic.lzhaofu.cn) [免费软件] [Windows]
@@ -69,7 +69,7 @@
 * [Switch](https://github.com/ahkohd/switch-desktop) [免费软件] [Windows]
 
 	是一款基于 Electron 开发的通过快捷键快速切换程序窗口的工具。
-* [Synergy](https://symless.com/synergy) [付费软件] [Windows,macOS,Linux]
+* [Synergy](https://symless.com/synergy) [付费软件] [Windows,macOs,Linux]
 
 	Synergy 是一款可让多台电脑共享一个鼠标与键盘的软件，用户可借助 Synergy 操作一个鼠标与键盘控制多个电脑。
 * [ABBYY FineReader](https://www.abbyy.com/en-apac/finereader) [付费软件] [Windows,macOS]
@@ -77,13 +77,13 @@
 	一款来自俄罗斯的文字识别工具，可以实现扫描、识别文本、比较并转换为可编辑格式，如 Word、Excel、PDF 等文档。
 
 **下载类**
-* [qBittorrent](https://www.qbittorrent.org) [开源软件] [Windows,macOS,Linux,FreeBSD,OS/2]
+* [qBittorrent](https://www.qbittorrent.org) [开源软件] [Windows,macOs,Linux,FreeBSD,OS/2]
 
     使用 C++/Qt 构建的 P2P 下载工具
 
     [项目主页](https://github.com/qbittorrent/qBittorrent)
 
-* [qBittorrent Enhanced Edition](https://github.com/qbittorrent/qBittorrent) [开源软件] [Windows,macOS,Linux]
+* [qBittorrent Enhanced Edition](https://github.com/qbittorrent/qBittorrent) [开源软件] [Windows,macOs,Linux]
 
     基于 qBittorrent 二次开发的 P2P 下载工具，是 qBittorrent 的增强版本。
 
@@ -107,7 +107,7 @@
 * [Ye自用M3U8下载器](https://github.com/asiontang/93.Ye.M3U8.Downloader) [免费软件] [Windows]
 
 	一个基于 Aria2 的 M3U8 下载器
-* [Transmission Remote GUI](https://github.com/transmission-remote-gui/transgui) [免费软件] [Windows,macOS,Linux]
+* [Transmission Remote GUI](https://github.com/transmission-remote-gui/transgui) [免费软件] [Windows,macOs,Linux]
 
 	Transmission 的本地前端程序
 
@@ -155,10 +155,10 @@
 * [QiPress](http://aalapshah.in/qipress) [付费软件] [Windows]
 
 	在屏幕上显示实时击键和鼠标点击。
-* [input-overlay](https://github.com/univrsal/input-overlay) [免费软件] [WindowS,Linux]
+* [input-overlay](https://github.com/univrsal/input-overlay) [免费软件] [Windows,Linux]
 
 	在 OBS 推流中显示键盘、鼠标和游戏手柄输入。
-* [TrID](https://mark0.net/soft-trid-e.html) [免费软件] [WindowS,Linux]
+* [TrID](https://mark0.net/soft-trid-e.html) [免费软件] [Windows,Linux]
 
 	TrID 是一个用于从二进制签名中识别文件类型的工具，可以用于修改错误的文件扩展名。
 
@@ -188,12 +188,12 @@
 
 	[Firefox 浏览器 Beta 版·来自 FTP 站点](http://ftp.mozilla.org/pub/firefox/releases)
 
-	[免费软件] [Windows,macOS,Linux]
+	[免费软件] [Windows,macOs,Linux]
 * [Edge 浏览器正式版](https://www.microsoft.com/zh-cn/edge)
 
     [Edge 浏览器测试版、开发版、金丝雀版](https://www.microsoftedgeinsider.com/zh-cn/download) 
     
-    [免费软件] [Windows,macOS,Linux]
+    [免费软件] [Windows,macOs,Linux]
 * [Connectify Dispatch](https://www.connectify.me) [付费软件] [Windows]
 
 	他可以允许 Windows 把你的各种网络融合在一起使用，并为你的设备提供网络叠加。
@@ -201,13 +201,13 @@
 * [V2RayW](https://github.com/Cenmrev/V2RayW) [开源软件] [Windows]
 
 	V2RayW 是一个基于 V2Ray 内核的 Windows 客户端。用户可以通过界面生成配置文件，并且可以手动更新 V2Ray 内核。
-* [Qv2ray](https://github.com/lhy0403/Qv2ray) [开源软件] [Windows,macOS,Linux]
+* [Qv2ray](https://github.com/lhy0403/Qv2ray) [开源软件] [Windows,macOs,Linux]
 
 	使用 Qt 编写的 V2ray 跨平台界面，支持连接导入和编辑，中英文切换。
 * [V2RayN](https://github.com/2dust/v2rayN) [开源软件] [Windows]
 
 	V2RayN 是一个基于 V2Ray 内核的 Windows 客户端。
-* [Clash](https://github.com/Dreamacro/clash) [开源软件] [Windows,macOS,Linux]
+* [Clash](https://github.com/Dreamacro/clash) [开源软件] [Windows,macOs,Linux]
 
 	支持多协议的自动分流工具
 * [ClashWeb](https://github.com/lzdnico/ClashWeb) [开源软件] [Windows]
@@ -226,7 +226,7 @@
 
 	支持 WebDAV/FTP/SFTP 和云盘的客户端，且自带轻量化的 WebDAV 服务端。
 
-* [miniserve](https://github.com/svenstaro/miniserve) [开源软件] [Windows,macOS,Linux]
+* [miniserve](https://github.com/svenstaro/miniserve) [开源软件] [Windows,macOs,Linux]
 
     miniserve 是一个小型且支持跨平台的 CLI 工具，是使用 Rust 语言编写的文件目录应用。
 
@@ -242,7 +242,7 @@
 	UWP 版的 RSS 阅读器
 
 	[Microsoft Store下载](https://www.microsoft.com/zh-cn/p/newsflow/9nblggh58s5r)
-* [Fluent Reader](https://github.com/yang991178/fluent-reader) [开源软件] [Windows,macOS,Linux]
+* [Fluent Reader](https://github.com/yang991178/fluent-reader) [开源软件] [Windows,macOs,Linux]
 
 	UWP 版的 RSS 阅读器
 
@@ -264,7 +264,7 @@
 * [Rufus](https://rufus.ie) [开源软件] [Windows]
 
 	一款优秀的开源 ISO 镜像烧录工具，专门用于烧录 U 盘启动工具，万能且好用，并提供了 [Microsoft Store 版本](https://rufus.ie)。
-* [Ventoy](https://www.ventoy.net/cn/index.html) [开源软件] [WindowS,Linux]
+* [Ventoy](https://www.ventoy.net/cn/index.html) [开源软件] [Windows,Linux]
 
 	Ventoy 是一个制作可启动U盘的开源工具。有了 Ventoy 你就无需反复地格式化 U 盘，你只需要把 ISO/WIM/IMG/VHD(x)/EFI 等类型的文件拷贝到 U 盘里面就可以启动了，无需其他操作。
 	你可以一次性拷贝很多个不同类型的镜像文件，Ventoy 会在启动时显示一个菜单来供你进行选择。
@@ -276,7 +276,7 @@
 
 	[创新声卡的第三方驱动](https://github.com/PeratX/kX-Setup-Manual)
 
-* [Network UPS Tools](https://networkupstools.org) [开源软件] [Windows,macOS,Linux,BSD Systems]
+* [Network UPS Tools](https://networkupstools.org) [开源软件] [Windows,macOs,Linux,BSD Systems]
 
 	让普通的 UPS 电源支持网络关机
 * [Zentimo](https://zentimo.com) [付费软件] [Windows]
