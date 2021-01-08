@@ -226,6 +226,16 @@
 
 	支持 WebDAV/FTP/SFTP 和云盘的客户端，且自带轻量化的 WebDAV 服务端。
 
+* [miniserve](https://github.com/svenstaro/miniserve) [开源软件] [Windows,macOS,Linux]
+
+    miniserve 是一个小型且支持跨平台的 CLI 工具，是使用 Rust 语言编写的文件目录应用。
+
+    * 支持身份验证
+    * 可将文件夹以 .tar.gz 和 .zip 打包的方式提供下载
+    * 主题
+    * 文件上传
+    * 扫描二维码访问
+
 **阅读类**
 * [Newsflow](http://www.newsflowapp.com) [免费软件] [Windows]
 
