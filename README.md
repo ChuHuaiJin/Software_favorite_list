@@ -307,21 +307,19 @@
 
     在 Windows 10 设备上的任何视频应用中播放高效率视频编码（HEVC）视频。这些扩展旨在利用某些较新设备（例如配备Intel第7代Core处理器和较新GPU的设备）上的硬件功能支持 4K 和 Ultra HD 内容。对于没有硬件支持 HEVC 视频的设备，将提供软件支持，但播放体验可能会因视频分辨率和电脑性能而有所不同。这些扩展还允许你在没有基于硬件的视频编码器的设备上对 HEVC 内容进行编码。
 
-* [MPEG-2 视频扩展](https://www.microsoft.com/store/productId/9N95Q1ZZPMH4) [免费软件] [Windows]
-
-    在 Windows 10 设备上的常用视频应用中播放 MPEG 视频。此扩展可以帮助 Windows 10 上安装的应用（如Microsoft 电影和电视）播放 MPEG-1 和 MPEG-2 视频。如果你的 MP4 或 MKV 视频文件无法播放，此扩展应该有用。此外，如果无法播放文件扩展名为.mpeg、.mpg、.ts、.m2ts、.mkv 和 .avi 等的视频，此扩展可能会帮助你播放这些视频。
-
-    包含的编解码器：
-    * MPEG-1视频编解码器
-    * MPEG-2视频编解码器(MPEG-2用在DVD上，并通常用于在较旧的数字相机上录制的视频)。
-
-    注意：你需要安装额外软件才能在 Windows 10 设备上播放 DVD。    
-
 * [HEIF 图像扩展](https://www.microsoft.com/store/productId/9PMMSR1CGPWG) [免费软件] [Windows]
 
     HEIF图像扩展使 Windows 10 设备能够对采用高效率图像文件（HEIF）格式的文件进行读写。这类文件的扩展名为 .heic 或 .heif。
 
-    存储在扩展名为 .heic 的 HEIF 文件中的图像采用 HEVC 格式压缩。这类文件还需要系统安装 HEVC 视频扩展程序包。如果未安装 HEVC 视频扩展程序包，HEIF 图像扩展将无法读写 .heic文件。
+    存储在扩展名为 .heic 的 HEIF 文件中的图像采用 HEVC 格式压缩。这类文件还需要系统安装 HEVC 视频扩展程序包。如果未安装 HEVC 视频扩展程序包，HEIF 图像扩展将无法读写 .heic 文件。
+
+* [VP9 视频扩展](https://www.microsoft.com/store/productId/9N4D0MSMP0PT) [免费软件] [Windows]
+
+    在 Windows 10 设备上的任何视频应用中播放 VP9 视频。VP9 是 Internet 上用于流式处理的热门视频编解码器。这些 VP9 视频扩展设计用于利用较新的设备上的硬件功能。对于缺乏 VP9 视频硬件支持的设备，则提供软件支持，但播放体验可能会因视频的分辨率和设备性能的不同而有所不同。这些扩展也可用于在缺乏硬件视频编码器的设备上对 VP8 和 VP9 内容进行编码。
+
+* [AV1 视频扩展](https://www.microsoft.com/store/productId/9MVZQVXJBQ9V) [免费软件] [Windows]
+
+    在 Windows 10 设备上的任何视频应用中播放高效视频编码 (HEVC) 视频。这些扩展旨在利用一些较新设备上的硬件功能——包括那些采用英特尔第七代酷睿处理器和较新 GPU 的设备，以支持 4K 和 Ultra HD 内容。对于没有 HEVC 视频硬件支持的设备，我们提供了软件支持，但播放体验可能会根据视频分辨率和 PC 性能而有所不同。这些扩展还可以让你在没有基于硬件的视频编码器的设备上对 HEVC 内容进行编码。
 
 * [Web 媒体扩展](https://www.microsoft.com/store/productId/9N5TDP8VCMHS) [免费软件] [Windows]
 
@@ -331,6 +329,16 @@
     * OGG 容器分析程序
     * Vorbis 解码器
     * Theora 解码器
+
+* [MPEG-2 视频扩展](https://www.microsoft.com/store/productId/9N95Q1ZZPMH4) [免费软件] [Windows]
+
+    在 Windows 10 设备上的常用视频应用中播放 MPEG 视频。此扩展可以帮助 Windows 10 上安装的应用（如Microsoft 电影和电视）播放 MPEG-1 和 MPEG-2 视频。如果你的 MP4 或 MKV 视频文件无法播放，此扩展应该有用。此外，如果无法播放文件扩展名为.mpeg、.mpg、.ts、.m2ts、.mkv 和 .avi 等的视频，此扩展可能会帮助你播放这些视频。
+
+    包含的编解码器：
+    * MPEG-1视频编解码器
+    * MPEG-2视频编解码器(MPEG-2用在DVD上，并通常用于在较旧的数字相机上录制的视频)。
+
+    注意：你需要安装额外软件才能在 Windows 10 设备上播放 DVD。
 
 * [原始图像扩展](https://www.microsoft.com/store/productId/9NCTDW2W1BH8) [免费软件] [Windows]
 
@@ -344,15 +352,7 @@
 
     请注意 - 此扩展提供的 Raw 编解码器需要对 Windows 进行更改才能运行。需使用 Windows 10 2019年5月更新(版本号1903)或更新版本。如果你无法安装此扩展，则表明你的设备正在运行的 Windows 版本未达到运行此扩展所需的最低 Windows 版本号。请考虑将你的设备升级至 Windows 的最新版本以安装此扩展。
 
-    请注意 - 此扩展并不是应用-你不能直接与它交互。它会安装一个 OS 编解码器插件，包括文件资源管理器和“照片”在内的 Windows 应用使用该插件解码 Raw 图像。安装此扩展后，请使用文件资源管理器查看缩略图，或使用“照片”应用查看来自受支持相机的 Raw 图像。
-
-* [VP9 视频扩展](https://www.microsoft.com/store/productId/9N4D0MSMP0PT) [免费软件] [Windows]
-
-    在 Windows 10 设备上的任何视频应用中播放 VP9 视频。VP9 是 Internet 上用于流式处理的热门视频编解码器。这些 VP9 视频扩展设计用于利用较新的设备上的硬件功能。对于缺乏 VP9 视频硬件支持的设备，则提供软件支持，但播放体验可能会因视频的分辨率和设备性能的不同而有所不同。这些扩展也可用于在缺乏硬件视频编码器的设备上对 VP8 和 VP9 内容进行编码。
-
-* [AV1 视频扩展](https://www.microsoft.com/store/productId/9MVZQVXJBQ9V) [免费软件] [Windows]
-
-    在 Windows 10 设备上的任何视频应用中播放高效视频编码 (HEVC) 视频。这些扩展旨在利用一些较新设备上的硬件功能——包括那些采用英特尔第七代酷睿处理器和较新 GPU 的设备，以支持 4K 和 Ultra HD 内容。对于没有 HEVC 视频硬件支持的设备，我们提供了软件支持，但播放体验可能会根据视频分辨率和 PC 性能而有所不同。这些扩展还可以让你在没有基于硬件的视频编码器的设备上对 HEVC 内容进行编码。
+    请注意 - 此扩展并不是应用 - 你不能直接与它交互。它会安装一个 OS 编解码器插件，包括文件资源管理器和“照片”在内的 Windows 应用使用该插件解码 Raw 图像。安装此扩展后，请使用文件资源管理器查看缩略图，或使用“照片”应用查看来自受支持相机的 Raw 图像。
 
 * [OpenCL™ 和 OpenGL® 兼容包](https://www.microsoft.com/store/productId/9NQPSL29BFFF) [免费软件] [Windows]
 
