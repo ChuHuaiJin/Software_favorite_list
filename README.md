@@ -325,7 +325,7 @@
 
 * [Web 媒体扩展](https://www.microsoft.com/store/productId/9N5TDP8VCMHS) [免费软件] [Windows]
 
-    Web 媒体扩展包对 Microsoft Edge 和 Windows 10 进行扩展，使其能够打开 Web 上常见的源格式。通过安装此媒体扩展包，用户将可以随意播放 OGG 容器中的内容以及使用 Vorbis 或 Theora 编解码器编码的内容。安装后，无需用户操作，Web 站点和应用便可以自动使用此扩展。只需进行安装，便可立即在 Microsoft Edge 和应用中播放新内容!
+    Web 媒体扩展包对 Microsoft Edge 和 Windows 10 进行扩展，使其能够打开 Web 上常见的源格式。通过安装此媒体扩展包，用户将可以随意播放 OGG 容器中的内容以及使用 Vorbis 或 Theora 编解码器编码的内容。安装后，无需用户操作，Web 站点和应用便可以自动使用此扩展。只需进行安装，便可立即在 Microsoft Edge 和应用中播放新内容！
 
     涉及的技术:
     * OGG 容器分析程序
@@ -334,7 +334,7 @@
 
 * [原始图像扩展](https://www.microsoft.com/store/productId/9NCTDW2W1BH8) [免费软件] [Windows]
 
-    此版本的 Raw 图像扩展包括对 CR3 文件以及其他 Bug 修复的支持!
+    此版本的 Raw 图像扩展包括对 CR3 文件以及其他 Bug 修复的支持！
 
     感谢你关注 Raw 图像扩展。你可获取此扩展以将其安装在你的设备上，但在安装此扩展前你需要先安装 Windows 10 2019年5月更新(版本号1903)。
 
