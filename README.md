@@ -4,7 +4,16 @@
 	一个用来专门分割、合并、转换 DVD 光盘的工具，对 GPU 硬件加速利用率很高。
 * [SolveigMM Video Splitter](https://www.solveigmm.com/zh/products/video-splitter) [付费软件] [Windows,macOS]
 
-	一个可以做到无损分割合并视频文件的工具，无需转码。
+	一个可以做到无损分割合并视频并剪辑的工具，无需转码。
+
+* [JoinerSplitter](https://github.com/Rambalac/JoinerSplitter) [开源软件] [Windows]
+
+    一个可以做到无损分割合并视频文件的工具，无需转码。
+
+* [Video Converter Ultimate](http://www.xilisoft.com/video-converter.html) [收费软件] [Windows,macOS]
+
+    Video Converter Ultimate 是一个转码工具，用于将视频和音频从几乎任何格式转换为受到广泛支持的编解码器格式。
+
 * [EverAver Renamer](https://everaver.blogspot.com) [免费软件] [Windows]
 
 	一款专门从 [Avgle](https://www.avgle.com) 抓取日本 AV 影片元数据的刮削器，不支持批量操作。
@@ -137,12 +146,17 @@
 * [Groupy](https://www.stardock.com/products/groupy) [付费软件] [Windows]
 
 	标签式窗口合并分组管理工具
-* [GitKraken](https://www.gitkraken.com) [免费软件] [Windows]
+* [GitKraken](https://www.gitkraken.com) [免费/付费软件] [Windows,macOS,Linux]
 
-	Github 客户端
-* [Fork](https://git-fork.com) [免费软件] [Windows,macOS]
+	Git 客户端
+* [Fork](https://git-fork.com) [免费/付费软件] [Windows,macOS]
 
-	Github 客户端
+	Git 客户端
+
+* [GitAhead](https://gitahead.github.io/gitahead.com) [开源软件] [Windows]
+
+	Git 客户端
+
 * [YoloMouse](https://pandateemo.github.io/YoloMouse) [免费/付费软件] [Windows]
 
 	鼠标指针外观修改工具
@@ -287,3 +301,16 @@
     * 驱动器盘符管理 - 该程序隐藏了未使用的读卡器插槽驱动器盘符，能够给指定的设备分配驱动器盘符，以及其它更多功能；
     * 真实的驱动器测速 - 对任何已连接的驱动器执行读写速度测试；
     * 加密卷管理 - 使用由 TrueCrypt、CipherShed 或者 VeraCrypt 容器加密的倘若它是一个设备卷。
+    
+**系统组件**
+* [HEVC 视频扩展](https://www.microsoft.com/store/productId/9NMZLZ57R3T7) [收费软件] [Windows]
+* [MPEG-2 视频扩展](https://www.microsoft.com/store/productId/9N95Q1ZZPMH4) [免费软件] [Windows]
+* [HEIF 图像扩展](https://www.microsoft.com/store/productId/9PMMSR1CGPWG) [免费软件] [Windows]
+* [Web 媒体扩展](https://www.microsoft.com/store/productId/9N5TDP8VCMHS) [免费软件] [Windows]
+* [原始图像扩展](https://www.microsoft.com/store/productId/9NCTDW2W1BH8) [免费软件] [Windows]
+* [VP9 视频扩展](https://www.microsoft.com/store/productId/9N4D0MSMP0PT) [免费软件] [Windows]
+* [AV1 视频扩展](https://www.microsoft.com/store/productId/9MVZQVXJBQ9V) [免费软件] [Windows]
+* [OpenCL™ 和 OpenGL® 兼容包](https://www.microsoft.com/store/productId/9NQPSL29BFFF)
+
+* [应用安装程序](https://www.microsoft.com/store/productId/9NBLGGH4NNS1) [免费软件] [Windows]
+* [MSIX Packaging Tool](https://www.microsoft.com/store/productId/9N5LW3JBCXKF) [免费软件] [Windows]
