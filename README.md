@@ -338,13 +338,13 @@
 
     感谢你关注 Raw 图像扩展。你可获取此扩展以将其安装在你的设备上，但在安装此扩展前你需要先安装 Windows 10 2019年5月更新(版本号1903)。
 
-    Raw 图像扩展为以许多中高端数码相机生成的 Raw 文件格式捕获的图像添加了本机查看支持。通过安装该程序包，你将可以直接在 Windows 文件资源管理器中查看受支持 Raw 文件格式的缩略图和元数据，或在"照片"应用中查看图像。当前版本的扩展支持多种相机，但目前不支持 .GPR 等一些 Raw 格式。
+    Raw 图像扩展为以许多中高端数码相机生成的 Raw 文件格式捕获的图像添加了本机查看支持。通过安装该程序包，你将可以直接在 Windows 文件资源管理器中查看受支持 Raw 文件格式的缩略图和元数据，或在“照片”应用中查看图像。当前版本的扩展支持多种相机，但目前不支持 .GPR 等一些 Raw 格式。
 
-    此程序包的成功开发与 Libraw 开源项目(http://www.libraw.org)的大力支持密不可分。查看 [https://www.libraw.org/supported-cameras](https://www.libraw.org/supported-cameras) 以获取受支持的相机列表。Libraw 库按照"通用开发和分发许可证版本 1.0(CDDL-1.0)“获得许可。
+    此程序包的成功开发与 Libraw 开源项目 [http://www.libraw.org](http://www.libraw.org) 的大力支持密不可分。查看  [https://www.libraw.org/supported-cameras](https://www.libraw.org/supported-cameras)  以获取受支持的相机列表。Libraw 库按照“通用开发和分发许可证版本 1.0(CDDL-1.0)”获得许可。
 
     请注意 - 此扩展提供的 Raw 编解码器需要对 Windows 进行更改才能运行。需使用 Windows 10 2019年5月更新(版本号1903)或更新版本。如果你无法安装此扩展，则表明你的设备正在运行的 Windows 版本未达到运行此扩展所需的最低 Windows 版本号。请考虑将你的设备升级至 Windows 的最新版本以安装此扩展。
 
-    请注意 - 此扩展并不是应用-你不能直接与它交互。它会安装一个 OS 编解码器插件，包括文件资源管理器和"照片"在内的 Windows 应用使用该插件解码 Raw 图像。安装此扩展后，请使用文件资源管理器查看缩略图，或使用"照片"应用查看来自受支持相机的 Raw 图像。
+    请注意 - 此扩展并不是应用-你不能直接与它交互。它会安装一个 OS 编解码器插件，包括文件资源管理器和“照片”在内的 Windows 应用使用该插件解码 Raw 图像。安装此扩展后，请使用文件资源管理器查看缩略图，或使用“照片”应用查看来自受支持相机的 Raw 图像。
 
 * [VP9 视频扩展](https://www.microsoft.com/store/productId/9N4D0MSMP0PT) [免费软件] [Windows]
 
@@ -360,13 +360,13 @@
 
     只有部分应用可以使用此兼容包。Windows 预览体验成员可以获得该程序包的预览体验成员版本，让更多应用可以使用此兼容包。
 
-    有关详细信息，请访问https://aka.ms/clglcp-faq
+    有关详细信息，请访问 [https://aka.ms/clglcp-faq](https://aka.ms/clglcp-faq)。
 
-    OpenCL 和 OpenCL 徽标是经过 Khronos 许可使用的 Apple Inc. 的商标。有关许可证的完整详细信息，请访问 Apple 网站(https://developer.apple.com/softwarelicensing/opencl/)。
+    OpenCL 和 OpenCL 徽标是经过 Khronos 许可使用的 Apple Inc. 的商标。有关许可证的完整详细信息，请访问 Apple 网站 [https://developer.apple.com/softwarelicensing/opencl](https://developer.apple.com/softwarelicensing/opencl)。
 
     OpenGL® 和椭圆形徽标是 Hewlett Packard Enterprise 在美国和世界上其他国家和地区的商标或注册商标。
 
-    该产品基于已发布的 Khronos 规范，已经提交给 Khronos Conformance Process，并且有望通过。当前符合性状态可以在 www.khronos.org/conformance 上找到。
+    该产品基于已发布的 Khronos 规范，已经提交给 Khronos Conformance Process，并且有望通过。当前符合性状态可以在  [www.khronos.org/conformance](www.khronos.org/conformance) 上找到。
 
 * [应用安装程序](https://www.microsoft.com/store/productId/9NBLGGH4NNS1) [免费软件] [Windows]
 
