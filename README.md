@@ -304,13 +304,70 @@
     
 **系统组件**
 * [HEVC 视频扩展](https://www.microsoft.com/store/productId/9NMZLZ57R3T7) [收费软件] [Windows]
+
+    在 Windows 10 设备上的任何视频应用中播放高效率视频编码（HEVC）视频。这些扩展旨在利用某些较新设备（例如配备Intel第7代Core处理器和较新GPU的设备）上的硬件功能支持 4K 和 Ultra HD 内容。对于没有硬件支持 HEVC 视频的设备，将提供软件支持，但播放体验可能会因视频分辨率和电脑性能而有所不同。这些扩展还允许你在没有基于硬件的视频编码器的设备上对 HEVC 内容进行编码。
+
 * [MPEG-2 视频扩展](https://www.microsoft.com/store/productId/9N95Q1ZZPMH4) [免费软件] [Windows]
+
+    在 Windows 10 设备上的常用视频应用中播放 MPEG 视频。此扩展可以帮助 Windows 10 上安装的应用（如Microsoft 电影和电视）播放 MPEG-1 和 MPEG-2 视频。如果你的 MP4 或 MKV 视频文件无法播放，此扩展应该有用。此外，如果无法播放文件扩展名为.mpeg、.mpg、.ts、.m2ts、.mkv 和 .avi 等的视频，此扩展可能会帮助你播放这些视频。
+
+    包含的编解码器：
+    * MPEG-1视频编解码器
+    * MPEG-2视频编解码器(MPEG-2用在DVD上，并通常用于在较旧的数字相机上录制的视频)。
+
+    注意：你需要安装额外软件才能在 Windows 10 设备上播放 DVD。    
+
 * [HEIF 图像扩展](https://www.microsoft.com/store/productId/9PMMSR1CGPWG) [免费软件] [Windows]
+
+    HEIF图像扩展使 Windows 10 设备能够对采用高效率图像文件（HEIF）格式的文件进行读写。这类文件的扩展名为 .heic 或 .heif。
+
+    存储在扩展名为 .heic 的 HEIF 文件中的图像采用 HEVC 格式压缩。这类文件还需要系统安装 HEVC 视频扩展程序包。如果未安装 HEVC 视频扩展程序包，HEIF 图像扩展将无法读写 .heic文件。
+
 * [Web 媒体扩展](https://www.microsoft.com/store/productId/9N5TDP8VCMHS) [免费软件] [Windows]
+
+    Web 媒体扩展包对 Microsoft Edge 和 Windows 10 进行扩展，使其能够打开 Web 上常见的源格式。通过安装此媒体扩展包，用户将可以随意播放 OGG 容器中的内容以及使用 Vorbis 或 Theora 编解码器编码的内容。安装后，无需用户操作，Web 站点和应用便可以自动使用此扩展。只需进行安装，便可立即在 Microsoft Edge 和应用中播放新内容!
+
+    涉及的技术:
+    * OGG 容器分析程序
+    * Vorbis 解码器
+    * Theora 解码器
+
 * [原始图像扩展](https://www.microsoft.com/store/productId/9NCTDW2W1BH8) [免费软件] [Windows]
+
+    此版本的 Raw 图像扩展包括对 CR3 文件以及其他 Bug 修复的支持!
+
+    感谢你关注 Raw 图像扩展。你可获取此扩展以将其安装在你的设备上，但在安装此扩展前你需要先安装 Windows 10 2019年5月更新(版本号1903)。
+
+    Raw 图像扩展为以许多中高端数码相机生成的 Raw 文件格式捕获的图像添加了本机查看支持。通过安装该程序包，你将可以直接在 Windows 文件资源管理器中查看受支持 Raw 文件格式的缩略图和元数据，或在"照片"应用中查看图像。当前版本的扩展支持多种相机，但目前不支持 .GPR 等一些 Raw 格式。
+
+    此程序包的成功开发与 Libraw 开源项目(http://www.libraw.org)的大力支持密不可分。查看 [https://www.libraw.org/supported-cameras](https://www.libraw.org/supported-cameras) 以获取受支持的相机列表。Libraw 库按照"通用开发和分发许可证版本 1.0(CDDL-1.0)“获得许可。
+
+    请注意 - 此扩展提供的 Raw 编解码器需要对 Windows 进行更改才能运行。需使用 Windows 10 2019年5月更新(版本号1903)或更新版本。如果你无法安装此扩展，则表明你的设备正在运行的 Windows 版本未达到运行此扩展所需的最低 Windows 版本号。请考虑将你的设备升级至 Windows 的最新版本以安装此扩展。
+
+    请注意 - 此扩展并不是应用-你不能直接与它交互。它会安装一个 OS 编解码器插件，包括文件资源管理器和"照片"在内的 Windows 应用使用该插件解码 Raw 图像。安装此扩展后，请使用文件资源管理器查看缩略图，或使用"照片"应用查看来自受支持相机的 Raw 图像。
+
 * [VP9 视频扩展](https://www.microsoft.com/store/productId/9N4D0MSMP0PT) [免费软件] [Windows]
+
+    在 Windows 10 设备上的任何视频应用中播放 VP9 视频。VP9 是 Internet 上用于流式处理的热门视频编解码器。这些 VP9 视频扩展设计用于利用较新的设备上的硬件功能。对于缺乏 VP9 视频硬件支持的设备，则提供软件支持，但播放体验可能会因视频的分辨率和设备性能的不同而有所不同。这些扩展也可用于在缺乏硬件视频编码器的设备上对 VP8 和 VP9 内容进行编码。
+
 * [AV1 视频扩展](https://www.microsoft.com/store/productId/9MVZQVXJBQ9V) [免费软件] [Windows]
-* [OpenCL™ 和 OpenGL® 兼容包](https://www.microsoft.com/store/productId/9NQPSL29BFFF)
+
+    在 Windows 10 设备上的任何视频应用中播放高效视频编码 (HEVC) 视频。这些扩展旨在利用一些较新设备上的硬件功能——包括那些采用英特尔第七代酷睿处理器和较新 GPU 的设备，以支持 4K 和 Ultra HD 内容。对于没有 HEVC 视频硬件支持的设备，我们提供了软件支持，但播放体验可能会根据视频分辨率和 PC 性能而有所不同。这些扩展还可以让你在没有基于硬件的视频编码器的设备上对 HEVC 内容进行编码。
+
+* [OpenCL™ 和 OpenGL® 兼容包](https://www.microsoft.com/store/productId/9NQPSL29BFFF) [免费软件] [Windows]
+
+    借助此兼容包，你可以在默认未安装 OpenCL 和 OpenGL 硬件驱动程序的 Windows 10 电脑上运行更多你喜欢的 OpenCL™ 和 OpenGL® 应用。如果安装了 DirectX 12 驱动程序，则受支持的应用将在运行时采用硬件加速，以获得更好的性能。此程序包支持使用 OpenCL 版本 1.2 及早期版本和 OpenGL 版本 3.3 及早期版本的应用。
+
+    只有部分应用可以使用此兼容包。Windows 预览体验成员可以获得该程序包的预览体验成员版本，让更多应用可以使用此兼容包。
+
+    有关详细信息，请访问https://aka.ms/clglcp-faq
+
+    OpenCL 和 OpenCL 徽标是经过 Khronos 许可使用的 Apple Inc. 的商标。有关许可证的完整详细信息，请访问 Apple 网站(https://developer.apple.com/softwarelicensing/opencl/)。
+
+    OpenGL® 和椭圆形徽标是 Hewlett Packard Enterprise 在美国和世界上其他国家和地区的商标或注册商标。
+
+    该产品基于已发布的 Khronos 规范，已经提交给 Khronos Conformance Process，并且有望通过。当前符合性状态可以在 www.khronos.org/conformance 上找到。
 
 * [应用安装程序](https://www.microsoft.com/store/productId/9NBLGGH4NNS1) [免费软件] [Windows]
-* [MSIX Packaging Tool](https://www.microsoft.com/store/productId/9N5LW3JBCXKF) [免费软件] [Windows]
+
+    适用于 Windows 10 的 Microsoft 应用安装程序可轻松旁加载 Windows 10 应用：只需双击应用包，无需运行 PowerShell 即可安装应用。应用安装程序会显示应用名、发布者、版本、显示徽标等程序包信息，以及应用要求的功能。可直接使用该应用，无需耗费任何精力。另外，如果安装无法运行，已设计的错误消息可帮助你解决问题。此应用程序当前仅适用于台式电脑。
