@@ -1,4 +1,5 @@
-**多媒体类**
+<font color=orange>**🎞 多媒体类**</font>
+---
 * [DVDFab](https://www.dvdfab.cn) [付费软件] [Windows,macOS]
 
 	一个用来专门分割、合并、转换 DVD 光盘的工具，对 GPU 硬件加速利用率很高。
@@ -40,7 +41,8 @@
 
 	小丸工具箱是一款用于处理音视频等多媒体文件的软件，它的目标是让视频压制变得简单、轻松。
 
-**图片类**
+<font color=orange>**🖼 图片类**</font>
+---
 * [PicGo](https://github.com/Molunerfinn/PicGo) [开源软件] [Windows,macOS,Linux]
 
 	基于 Electron 构建的图床工具
@@ -48,7 +50,8 @@
 
 	图床工具
 
-**效率类**
+<font color=orange>**⚒ 效率类**</font>
+---
 * [ReNamer](http://www.den4b.com/products/renamer) [免费/付费软件] [Windows]
 
 	极其好用的批量文件重命名工具，支持脚本和正则表达式。
@@ -85,7 +88,8 @@
 
 	一款来自俄罗斯的文字识别工具，可以实现扫描、识别文本、比较并转换为可编辑格式，如 Word、Excel、PDF 等文档。
 
-**下载类**
+<font color=orange>**📥 下载类**</font>
+---
 * [qBittorrent](https://www.qbittorrent.org) [开源软件] [Windows,macOS,Linux,FreeBSD,OS/2]
 
     使用 C++/Qt 构建的 P2P 下载工具
@@ -110,17 +114,18 @@
     一个简单易用的 m3u8 下载器，支持下载 m3u8 链接或文件为 mp4 或 ts 格式，并提供丰富的命令行选项。
 
     不支持优酷视频解密。
-* [M3U8-Downloader](https://github.com/magicdmer/M3U8-Downloader) [免费软件] [Windows]
+* [M3U8 Downloader](https://github.com/magicdmer/M3U8-Downloader) [免费软件] [Windows]
 
 	一个基于 FFmpeg 的 M3U8 下载器
-* [Ye自用M3U8下载器](https://github.com/asiontang/93.Ye.M3U8.Downloader) [免费软件] [Windows]
+* [Ye 自用 M3U8 下载器](https://github.com/asiontang/93.Ye.M3U8.Downloader) [免费软件] [Windows]
 
 	一个基于 Aria2 的 M3U8 下载器
 * [Transmission Remote GUI](https://github.com/transmission-remote-gui/transgui) [免费软件] [Windows,macOS,Linux]
 
 	Transmission 的本地前端程序
 
-**编辑器**
+<font color=orange>**📝 编辑器**</font>
+---
 * [Markdown Monster](https://markdownmonster.west-wind.com) [开源/付费软件] [Windows]
 
 	Markdown Monster 是一款 Markdown 编辑器和查看器
@@ -134,7 +139,8 @@
 
     [项目地址](https://github.com/rickstrahl/MarkdownMonster)
 
-**工具类**
+<font color=orange>**🔩 工具类**</font>
+---
 * [TransMac](https://www.acutesystems.com/scrtm.htm) [付费软件] [Windows]
 
 	常用于在 Windows下向 U 盘写入 macOS 系统 dmg 镜像的工具。
@@ -176,7 +182,8 @@
 
 	TrID 是一个用于从二进制签名中识别文件类型的工具，可以用于修改错误的文件扩展名。
 
-**安全类**
+<font color=orange>**🛡 安全类**</font>
+---
 * [Sandboxie](https://github.com/sandboxie/sandboxie) [开源软件] [Windows]
 
 	免费的沙盘工具，已开源。
@@ -189,7 +196,8 @@
 
 	流氓软件证书拉黑工具，系统需要开启 UAC，没有证书的软件防不住。
 
-**维护类**
+<font color=orange>**🔧 维护类**</font>
+---
 * [Uninstall Tool](https://www.crystalidea.com/uninstall-tool) [付费软件] [Windows]
 
 	一款非常好用的软件卸载工具，它不需要借助 Windows 的快照来建立软件的安装动作，而是自身在安装时直接监控并记录软件的安装动作，文件卸载干净，灵活好用，关键是它很快。
@@ -197,10 +205,11 @@
 
 	一款用来创建自己的 Windows PE 环境的工具，支持从 Windows XP 到 Windows 10，以及从 Windows Server 2003~Windows Server 2019 的所有系统版本，并且自带了十来个常用小工具。
 
-**网络类**
-* [Firefox 浏览器 Beta 版·来自国际版站点](https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-beta)
+<font color=orange>**📡 网络类**</font>
+---
+* [Firefox 浏览器 Beta 版·来自 Http 国际站点](https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-beta)
 
-	[Firefox 浏览器 Beta 版·来自 FTP 站点](http://ftp.mozilla.org/pub/firefox/releases)
+	[Firefox 浏览器 Beta 版·来自 FTP 国际站点](http://ftp.mozilla.org/pub/firefox/releases)
 
 	[免费软件] [Windows,macOS,Linux]
 * [Edge 浏览器正式版](https://www.microsoft.com/zh-cn/edge)
@@ -250,7 +259,8 @@
     * 文件上传
     * 扫描二维码访问
 
-**阅读类**
+<font color=orange>**📖 阅读类**</font>
+---
 * [Newsflow](http://www.newsflowapp.com) [免费软件] [Windows]
 
 	UWP 版的 RSS 阅读器
@@ -274,7 +284,8 @@
 
 	基于读书笔记的知识管理软件
 
-**光盘类**
+<font color=orange>**📀 光盘类**</font>
+---
 * [Rufus](https://rufus.ie) [开源软件] [Windows]
 
 	一款优秀的开源 ISO 镜像烧录工具，专门用于烧录 U 盘启动工具，万能且好用，并提供了 [Microsoft Store 版本](https://rufus.ie)。
@@ -283,7 +294,8 @@
 	Ventoy 是一个制作可启动U盘的开源工具。有了 Ventoy 你就无需反复地格式化 U 盘，你只需要把 ISO/WIM/IMG/VHD(x)/EFI 等类型的文件拷贝到 U 盘里面就可以启动了，无需其他操作。
 	你可以一次性拷贝很多个不同类型的镜像文件，Ventoy 会在启动时显示一个菜单来供你进行选择。
 
-**硬件类**
+<font color=orange>**⌨️ 硬件类**</font>
+---
 * [KX驱动](https://github.com/kxproject) [开源软件] [Windows,macOS]
 
 	[论坛](https://www.hardwareheaven.com/community/forums/kx-project-audio-driver-support-forum.67)
@@ -302,7 +314,8 @@
     * 真实的驱动器测速 - 对任何已连接的驱动器执行读写速度测试；
     * 加密卷管理 - 使用由 TrueCrypt、CipherShed 或者 VeraCrypt 容器加密的倘若它是一个设备卷。
     
-**系统组件**
+<font color=orange>**⚙ 系统组件**</font>
+---
 * [HEVC 视频扩展](https://www.microsoft.com/store/productId/9NMZLZ57R3T7) [收费软件] [Windows]
 
     在 Windows 10 设备上的任何视频应用中播放高效率视频编码（HEVC）视频。这些扩展旨在利用某些较新设备（例如配备Intel第7代Core处理器和较新GPU的设备）上的硬件功能支持 4K 和 Ultra HD 内容。对于没有硬件支持 HEVC 视频的设备，将提供软件支持，但播放体验可能会因视频分辨率和电脑性能而有所不同。这些扩展还允许你在没有基于硬件的视频编码器的设备上对 HEVC 内容进行编码。
