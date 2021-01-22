@@ -1,4 +1,4 @@
-<font color=orange>**🎞 多媒体类**</font>
+**❤️ 多媒体类**
 ---
 * [DVDFab](https://www.dvdfab.cn) [付费软件] [Windows,macOS]
 
@@ -41,7 +41,7 @@
 
 	小丸工具箱是一款用于处理音视频等多媒体文件的软件，它的目标是让视频压制变得简单、轻松。
 
-<font color=orange>**🖼 图片类**</font>
+**❤️ 图片类**
 ---
 * [PicGo](https://github.com/Molunerfinn/PicGo) [开源软件] [Windows,macOS,Linux]
 
@@ -50,7 +50,7 @@
 
 	图床工具
 
-<font color=orange>**⚒ 效率类**</font>
+**❤️ 效率类**
 ---
 * [ReNamer](http://www.den4b.com/products/renamer) [免费/付费软件] [Windows]
 
@@ -88,7 +88,7 @@
 
 	一款来自俄罗斯的文字识别工具，可以实现扫描、识别文本、比较并转换为可编辑格式，如 Word、Excel、PDF 等文档。
 
-<font color=orange>**📥 下载类**</font>
+**❤️ 下载类**
 ---
 * [qBittorrent](https://www.qbittorrent.org) [开源软件] [Windows,macOS,Linux,FreeBSD,OS/2]
 
@@ -124,7 +124,7 @@
 
 	Transmission 的本地前端程序
 
-<font color=orange>**📝 编辑器**</font>
+**❤️ 编辑器**
 ---
 * [Markdown Monster](https://markdownmonster.west-wind.com) [开源/付费软件] [Windows]
 
@@ -139,7 +139,7 @@
 
     [项目地址](https://github.com/rickstrahl/MarkdownMonster)
 
-<font color=orange>**🔩 工具类**</font>
+**❤️ 工具类**
 ---
 * [TransMac](https://www.acutesystems.com/scrtm.htm) [付费软件] [Windows]
 
@@ -182,7 +182,7 @@
 
 	TrID 是一个用于从二进制签名中识别文件类型的工具，可以用于修改错误的文件扩展名。
 
-<font color=orange>**🛡 安全类**</font>
+**❤️ 安全类**
 ---
 * [Sandboxie](https://github.com/sandboxie/sandboxie) [开源软件] [Windows]
 
@@ -196,7 +196,7 @@
 
 	流氓软件证书拉黑工具，系统需要开启 UAC，没有证书的软件防不住。
 
-<font color=orange>**🔧 维护类**</font>
+**❤️ 维护类**
 ---
 * [Uninstall Tool](https://www.crystalidea.com/uninstall-tool) [付费软件] [Windows]
 
@@ -205,7 +205,7 @@
 
 	一款用来创建自己的 Windows PE 环境的工具，支持从 Windows XP 到 Windows 10，以及从 Windows Server 2003~Windows Server 2019 的所有系统版本，并且自带了十来个常用小工具。
 
-<font color=orange>**📡 网络类**</font>
+**❤️ 网络类**
 ---
 * [Firefox 浏览器 Beta 版·来自 Http 国际站点](https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-beta)
 
@@ -259,7 +259,7 @@
     * 文件上传
     * 扫描二维码访问
 
-<font color=orange>**📖 阅读类**</font>
+**❤️ 阅读类**
 ---
 * [Newsflow](http://www.newsflowapp.com) [免费软件] [Windows]
 
@@ -284,7 +284,7 @@
 
 	基于读书笔记的知识管理软件
 
-<font color=orange>**📀 光盘类**</font>
+**❤️ 光盘类**
 ---
 * [Rufus](https://rufus.ie) [开源软件] [Windows]
 
@@ -294,7 +294,7 @@
 	Ventoy 是一个制作可启动U盘的开源工具。有了 Ventoy 你就无需反复地格式化 U 盘，你只需要把 ISO/WIM/IMG/VHD(x)/EFI 等类型的文件拷贝到 U 盘里面就可以启动了，无需其他操作。
 	你可以一次性拷贝很多个不同类型的镜像文件，Ventoy 会在启动时显示一个菜单来供你进行选择。
 
-<font color=orange>**⌨️ 硬件类**</font>
+**❤️ 硬件类**
 ---
 * [KX驱动](https://github.com/kxproject) [开源软件] [Windows,macOS]
 
@@ -314,7 +314,7 @@
     * 真实的驱动器测速 - 对任何已连接的驱动器执行读写速度测试；
     * 加密卷管理 - 使用由 TrueCrypt、CipherShed 或者 VeraCrypt 容器加密的倘若它是一个设备卷。
     
-<font color=orange>**⚙ 系统组件**</font>
+**❤️ 系统组件**
 ---
 * [HEVC 视频扩展](https://www.microsoft.com/store/productId/9NMZLZ57R3T7) [收费软件] [Windows]
 
