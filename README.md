@@ -50,6 +50,10 @@
 
 	图床工具
 
+* [PicGrayRem](https://www.cnblogs.com/Charltsing/p/PicGrayRemover.html) [免费软件] [Windows]
+
+    免费的图片校正及漂白专业工具
+
 **❤️ 效率类**
 ---
 * [ReNamer](http://www.den4b.com/products/renamer) [免费/付费软件] [Windows]
@@ -181,6 +185,9 @@
 * [TrID](https://mark0.net/soft-trid-e.html) [免费软件] [Windows,Linux]
 
 	TrID 是一个用于从二进制签名中识别文件类型的工具，可以用于修改错误的文件扩展名。
+* [WX Backup](http://wxbackup.imxfd.com) [免费软件] [Windows]
+
+    导出微信的聊天记录，并在浏览器查看。
 
 **❤️ 安全类**
 ---
